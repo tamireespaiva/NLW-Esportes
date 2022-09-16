@@ -6,14 +6,15 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar] (https://tamireespaiva.github.io/NLW-Esportes/)
+🔗[Clique aqui para acessar](https://tamireespaiva.github.io/NLW-Esportes/)
 
-## Tecnologias 
+## 🎮 Tecnologias 
 
 - HTML
 - CSS
 - Git e GitHub
 
-## Contato
+## 📱 Contato
 
 tamires.paiva@outlook.com
+
